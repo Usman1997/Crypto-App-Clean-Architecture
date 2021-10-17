@@ -41,4 +41,6 @@ ext{
 
      okhttp3 = "5.0.0-alpha.2"
 
+     flow_layout = "0.17.0"
+
 }
