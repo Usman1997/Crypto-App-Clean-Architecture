@@ -12,7 +12,9 @@
         android:theme="@style/Theme.CryptoApp">
         <activity
             android:name=".presentation.ui.MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:label="CryptoCurrentApp"
+            android:theme="@style/Theme.CryptoApp.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
